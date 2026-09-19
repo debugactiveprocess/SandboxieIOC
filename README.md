@@ -62,6 +62,7 @@ SandboxieIOC.exe [options] <executable>
   --drop-admin           Enable DropAdminRights in the box
   --keep-box             Do not clean the sandbox after the analysis
 ```
+<img width="1512" height="453" alt="image" src="https://github.com/user-attachments/assets/291ccc9f-46ac-4c3c-9219-93d48374a71b" />
 
 Example:
 
@@ -91,6 +92,7 @@ JSON structure:
   }
 }
 ```
+<img width="1600" height="596" alt="image" src="https://github.com/user-attachments/assets/7ddaa851-40c4-41a4-b3e5-308e912f028b" />
 
 ## Limitations / security
 
