@@ -1,7 +1,7 @@
 # SandboxieIOC
 
 A Windows console tool that runs an executable inside a Sandboxie sandbox and
-collects **network / web indicators of compromise (IOCs)** — URLs, IP
+collects **network / web indicators of compromise (IOCs)** URLs, IP
 addresses, DNS queries (domains), TCP/UDP connections (`ip:port`) and
 authentication evidence (credentials embedded in URLs).
 
